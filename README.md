@@ -130,11 +130,11 @@ You can deploy this project using:
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Abdelmejid Oumer Ali**
+👤 **Said laasri**
 
-- GitHub: [@amejid](https://github.com/amejid)
-- Twitter: [@amejidoumer](https://twitter.com/amejidoumer)
-- LinkedIn: [Abdelmejid Oumer Ali](https://linkedin.com/in/amejid)
+- GitHub: [@Said-laasri](https://github.com/Said-laasri)
+- Twitter: [@saidlaasr](https://twitter.com/saidlaasr)
+- LinkedIn: [SAID LAASRI](https://www.linkedin.com/in/said-laasri-8a4367172/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
